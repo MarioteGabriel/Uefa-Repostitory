@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Página da Barbearia Do Mariotex - especializada em cabelo e barba">
+    <meta name="keywords" content="barbearia, cabelo, barba, qualidade, atendimento">
+    <meta name="author" content="Seu Nome">
+    <title>Barbearia Mariotex</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Cabeçalho -->
+    <header>
+        <h1 class="titulo-principal">Barbearia Mariotex</h1>
+    </header>
+
+    <!-- Banner -->
+    <img id="banner" src="banner.jpg">
+
+    <!-- Sobre a Barbearia Alura -->
+    <div class="principal">
+        <h2 class="titulo-centralizado">Sobre a Barbearia Mariotex</h2>
+        <p>Localizada no coração da cidade, a <strong>Barbearia Mariotex</strong> traz o melhor para seu cabelo e barba. Fundada em 2023, é destaque na cidade, conquistando novos clientes diariamente.</p>
+        <p id="missao"><em>Nossa missão é: <strong>"Proporcionar autoestima e um cabelo como o do cr7"</strong>.</em></p>
+        <p>Oferecemos profissionais experientes e antenados à moda. O atendimento é ágil e de qualidade, garantindo a satisfação dos clientes.</p>
+    </div>
+
+    <!-- Benefícios -->
+    <div class="beneficios">
+        <h3 class="titulo-centralizado">Benefícios</h3>
+        <ul>
+            <li class="itens">Atendimento aos Clientes</li>
+            <li class="itens">Espaço diferenciado</li>
+            <li class="itens">Localização</li>
+            <li class="itens">Profissionais Qualificados</li>
+        </ul>
+        <img src="beneficios.jpg" class="imagembeneficios">
+    </div>
+</body>
+</html>
